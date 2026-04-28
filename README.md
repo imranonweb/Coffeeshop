@@ -15,8 +15,6 @@ This project demonstrates practical implementation of:
 - Database-driven web applications  
 - Reservation systems  
 
-It is designed as both a **learning project** and a **portfolio-ready application**.
-
 ---
 
 ## 🚀 Features
@@ -55,48 +53,6 @@ It is designed as both a **learning project** and a **portfolio-ready applicatio
 - Product image support
 - Avatar upload system
 - Image fixing utility script
-
----
-
-## 🗂️ Project Structure
-project/
-│
-├── config/
-│ ├── config.php
-│ └── database.php
-│
-├── assets/
-│ ├── css/
-│ └── images/
-│
-├── pages/
-│ ├── index.php
-│ ├── menu.php
-│ ├── cart.php
-│ ├── checkout.php
-│ ├── orders.php
-│ ├── order-details.php
-│ ├── reservations.php
-│ └── my-reservations.php
-│
-├── auth/
-│ ├── login.php
-│ ├── signup.php
-│ └── logout.php
-│
-├── user/
-│ └── profile.php
-│
-├── database/
-│ ├── database.sql
-│ ├── add_avatar_column.sql
-│ └── update_payment_method.sql
-│
-└── docs/
-├── README.md
-├── SETUP.md
-├── IMAGE-GUIDE.md
-└── CHECKOUT-UPDATE.md
 
 ## 🔄 Application Flow
 - User signs up or logs in
